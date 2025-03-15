@@ -1,7 +1,7 @@
 
 
 //important constants to login as a bot
-const TOKEN = "MTM1MDAzOTE0MzQwMDQ3MjYwNg.GG5Klj.9HJSozcpetMtVlK_IENiW7vcOUJ96i4rzvW17Y";
+const TOKEN = "123"; 
 
 const { Client, GatewayIntentBits } = require('discord.js');
 
